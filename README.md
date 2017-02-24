@@ -9,5 +9,5 @@ Credit: "Global Map of Malaysia ©ISCGM/ The Department of Survey and Mapping Ma
 
 Contact: The Department of Survey and Mapping Malaysia.
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/malaysia.png)
+E-mail: ![email](email.png)
 
